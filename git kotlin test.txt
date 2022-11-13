@@ -1,8 +1,8 @@
-aditya  --> ask him to create an interface car with three methods giveEngine() , giveModel() , giveCapacity() and implement it in a class car 
+aditya  --> create an interface car with three methods giveEngine() , giveModel() , giveCapacity() and implement it in a class car 
              ask him difference between object and normal class            
 
 chinmay --> create data class user with values id ,name , gender and create a class and create multiple users and explain
 
-achyut  --> create a sealed class containing event types and based on those using when clause event types just tell them to print some string in a class
+achyut  --> create a sealed class containing event types and based on those event types using "when" clause event types just tell them to print some string in a class
  
-prathamesh --> create a sealed class named animals create two data classes of land and water animals 
+prathamesh --> create a sealed class named animals create two data classes of land and water animals and initalize then in main
